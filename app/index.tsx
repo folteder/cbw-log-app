@@ -26,6 +26,7 @@ export default function Index() {
           <View style={styles.buttonContainer}>
             <Button style={styles.buttonLogin} variant="solid" >
               <Link href="/login">
+              {/* <Link href="/amplifylogin"> */}
                 <ButtonText>INICIAR SESION</ButtonText>
               </Link>
             </Button>

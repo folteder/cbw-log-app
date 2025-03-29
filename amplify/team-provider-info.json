@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cbwlogapp-dev-a00f8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::012568492606:role/amplify-cbwlogapp-dev-a00f8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::012568492606:role/amplify-cbwlogapp-dev-a00f8-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cbwlogapp-dev-a00f8-deployment",
+      "UnauthRoleName": "amplify-cbwlogapp-dev-a00f8-unauthRole",
+      "StackName": "amplify-cbwlogapp-dev-a00f8",
+      "StackId": "arn:aws:cloudformation:us-east-1:012568492606:stack/amplify-cbwlogapp-dev-a00f8/e954b4c0-0cb2-11f0-bd3b-127ef0c14fc3",
+      "AmplifyAppId": "d3l8lyv4n50c4k"
+    },
+    "categories": {
+      "auth": {
+        "cbwlogapp42f8c798": {}
+      }
+    }
+  }
+}

@@ -55,12 +55,10 @@ function RootLayoutNav() {
         <Stack>
           {/* <Stack.Screen name="(tabs)" options={{ headerShown: false }} /> */}
           <Stack.Screen name="index"/>
+          <Stack.Screen name="amplifylogin"/>
           <Stack.Screen name="login"/>
           <Stack.Screen name="register"/>
-          <Stack.Screen name="phone_number"/>
-          <Stack.Screen name="account_data"/>
           <Stack.Screen name="success_log"/>
-          <Stack.Screen name="success_creation"/>
           <Stack.Screen name="users_pool"/>
           <Stack.Screen name="+not-found"/>
           <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
